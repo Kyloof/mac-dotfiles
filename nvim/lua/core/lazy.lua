@@ -20,8 +20,7 @@ rtp:prepend(lazypath)
 
 -- Load modules
 require('lazy').setup({
-  require 'kyloof.plugins.init',
-  require 'kyloof.plugins.lsp.init'
+  require 'plugins.init'
 }, {
   -- UI related options for lazy plugin manager
   ui = {
