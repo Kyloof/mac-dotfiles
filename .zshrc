@@ -37,6 +37,6 @@ export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 
 # Alias
 alias dtnet="cd ~/Studia/Semestr5/dotnet/labs/"
-alias iot="cd ~/Studia/Semestr5/dotnet/labs"
+alias iot="cd ~/Studia/Semestr5/IoT/labs"
 alias albums="cd ~/Notes/personal/music/albums/2025"
 
