@@ -1,6 +1,6 @@
 # PATH
 export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
-export PATH=/usr/local/texlive/2025/bin/x86_64-linux:$PATH
+export PATH=$HOME/.cargo/bin:$PATH
 
 # MANPATH
 export MANPATH=/usr/local/texlive/2025/texmf-dist/doc/man:$MANPATH
